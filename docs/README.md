@@ -1,1 +1,1 @@
-This is the repo for [RiderSargent.github.io](https://RiderSargent.github.io).
+This is the repo for [ridersargent.github.io](https://ridersargent.github.io).
